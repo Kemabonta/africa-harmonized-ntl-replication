@@ -1,8 +1,8 @@
-# Africa harmonized nighttime lights (1992–2024 replication products)
+# Africa harmonized nighttime lights (2013–2024 replication products)
 
 Author: Tam Kemabonta
 
-This repository holds Africa-masked, DMSP-like digital number (DN) grids produced while replicating and stress-testing the Li et al. (2020) VIIRS-to-DMSP harmonization. Files are annual GeoTIFFs for Africa only.
+This repository holds Africa-masked, DMSP-like digital number (DN) grids produced by applying the Li et al. (2020) VIIRS-to-DMSP harmonization method to VIIRS nighttime lights. Files are annual GeoTIFFs for Africa only.
 
 ## What is in this repository
 
@@ -58,16 +58,6 @@ Neither product family was tuned to Li’s 2014–2024 published grids.
 
 - **Monthly replication** (`li_replicated_monthly/`): EOG monthly VIIRS `vcmcfg` composites.
 - **NOAA rebuild** (`noaa_rebuild/`): NOAA/EOG annual VNL version 2 `average_masked` composites.
-
-## Key findings
-
-- Background noise in the monthly VIIRS files, after smoothing and the sigmoid, becomes DN 6–7 over dark land.
-- The monthly-file replication matches Li in about 84% of Africa cells in 2014 and about 8% in 2024 (identical DN).
-- The NOAA annual rebuild matches Li in about 87–94% of Africa cells for 2014–2024.
-- Li’s paper does not document how background noise is handled.
-- Li re-uploaded the 2014 and later data on Figshare in 2025; work here uses those current files.
-
-Together, these results suggest that Li’s post-2013 products were built from noise-masked annual-type inputs or with an extra cleaning step that is not described in the paper.
 
 ## Citation
 
