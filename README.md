@@ -73,7 +73,7 @@ Users must also cite Li et al. (2020) and credit the NOAA/EOG VIIRS inputs named
 
 ### How to cite these products
 
-Kemabonta, T. (2026). Africa harmonized nighttime lights (2013–2024 replication products) [Data set]. GitHub. https://github.com/Kemabonta/africa-harmonized-ntl-replication
+Kemabonta, T. (2026). Africa harmonized nighttime lights (2013–2024 replication products) [Data set]. Entric Power Systems. GitHub. https://github.com/Kemabonta/africa-harmonized-ntl-replication
 
 ```bibtex
 @misc{kemabonta2026africantl,
