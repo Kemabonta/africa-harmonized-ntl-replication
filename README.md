@@ -69,6 +69,24 @@ Li, X., Zhou, Y., Zhao, M., & Zhao, X. (2020). A harmonized global nighttime lig
 
 If you use these replication products, please also cite this repository and name Tam Kemabonta as author.
 
+Users must also cite Li et al. (2020) and credit the NOAA/EOG VIIRS inputs named in the README.
+
+### How to cite these products
+
+Kemabonta, T. (2026). Africa harmonized nighttime lights (2013–2024 replication products) [Data set]. GitHub. https://github.com/Kemabonta/africa-harmonized-ntl-replication
+
+```bibtex
+@misc{kemabonta2026africantl,
+  author = {Kemabonta, Tam},
+  title = {Africa harmonized nighttime lights (2013--2024 replication products)},
+  year = {2026},
+  publisher = {GitHub},
+  howpublished = {\url{https://github.com/Kemabonta/africa-harmonized-ntl-replication}}
+}
+```
+
 ## License
 
-License is TBD.
+Everything in this repository is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0). The repository contains data products and documentation and no code or scripts, so CC BY 4.0 applies to everything. Attribution to Tam Kemabonta is required.
+
+Contains data from Kemabonta, T. (2026), Africa harmonized nighttime lights (2013–2024 replication products), https://github.com/Kemabonta/africa-harmonized-ntl-replication, licensed CC BY 4.0.
