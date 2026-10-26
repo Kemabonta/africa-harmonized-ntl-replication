@@ -1,0 +1,53 @@
+cff-version: 1.2.0
+message: If you use this dataset, please cite it using the metadata from this file.
+title: "Africa harmonized nighttime lights (2013–2024 replication products)"
+type: dataset
+authors:
+  - family-names: Kemabonta
+    given-names: Tam
+repository-code: "https://github.com/Kemabonta/africa-harmonized-ntl-replication"
+url: "https://github.com/Kemabonta/africa-harmonized-ntl-replication"
+license: CC-BY-4.0
+version: 1.0.0
+date-released: "2026-10-26"
+abstract: "This repository holds Africa-masked, DMSP-like digital number (DN) grids produced by applying the Li et al. (2020) VIIRS-to-DMSP harmonization method to VIIRS nighttime lights. Files are annual GeoTIFFs for Africa only."
+keywords:
+  - nighttime lights
+  - Africa
+  - DMSP-like
+  - VIIRS
+  - harmonization
+  - GeoTIFF
+  - replication
+references:
+  - type: article
+    title: "A harmonized global nighttime light dataset 1992–2018"
+    authors:
+      - family-names: Li
+        given-names: Xuecao
+      - family-names: Zhou
+        given-names: Yuyu
+      - family-names: Zhao
+        given-names: Min
+      - family-names: Zhao
+        given-names: Xia
+    journal: Scientific Data
+    volume: 7
+    start: 168
+    year: 2020
+    doi: 10.1038/s41597-020-0510-y
+  - type: data
+    title: "Harmonized global nighttime light dataset 1992–2018"
+    authors:
+      - family-names: Li
+        given-names: Xuecao
+      - family-names: Zhou
+        given-names: Yuyu
+      - family-names: Zhao
+        given-names: Min
+      - family-names: Zhao
+        given-names: Xia
+    publisher:
+      name: Figshare
+    year: 2020
+    doi: 10.6084/m9.figshare.9828827
