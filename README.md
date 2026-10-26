@@ -78,7 +78,7 @@ Kemabonta, T. (2026). Africa harmonized nighttime lights (2013–2024 replicatio
 ```bibtex
 @misc{kemabonta2026africantl,
   author = {Kemabonta, Tam},
-  title = {Africa harmonized nighttime lights (2013--2024 replication products)},
+  title = {Africa harmonized nighttime lights (2013--2024 replication products), Entric Power Systems},
   year = {2026},
   publisher = {GitHub},
   howpublished = {\url{https://github.com/Kemabonta/africa-harmonized-ntl-replication}}
@@ -89,4 +89,4 @@ Kemabonta, T. (2026). Africa harmonized nighttime lights (2013–2024 replicatio
 
 Everything in this repository is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0). The repository contains data products and documentation and no code or scripts, so CC BY 4.0 applies to everything. Attribution to Tam Kemabonta is required.
 
-Contains data from Kemabonta, T. (2026), Africa harmonized nighttime lights (2013–2024 replication products), https://github.com/Kemabonta/africa-harmonized-ntl-replication, licensed CC BY 4.0.
+Contains data from Kemabonta, T. (2026), Africa harmonized nighttime lights (2013–2024 replication products), Entric Power Systems https://github.com/Kemabonta/africa-harmonized-ntl-replication, licensed CC BY 4.0.
