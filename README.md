@@ -78,7 +78,7 @@ Kemabonta, T. (2026). Africa harmonized nighttime lights (2013–2024 replicatio
 ```bibtex
 @misc{kemabonta2026africantl,
   author = {Kemabonta, Tam},
-  title = {Africa harmonized nighttime lights (2013--2024 replication products), Entric Power Systems},
+  title = {Africa harmonized nighttime lights (2013--2024 replication products), Entric},
   year = {2026},
   publisher = {GitHub},
   howpublished = {\url{https://github.com/Kemabonta/africa-harmonized-ntl-replication}}
